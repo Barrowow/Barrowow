@@ -27,7 +27,7 @@
 ## 🎓 Learning every day on: 
 
 <a href="https://www.tryhackme.com/p/ha.cker">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ha.cker.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ha.cker.png" alt="Your Image Badge" />
 </a>
 
 ![top2%](https://github.com/Barrowow/Barrowow/blob/main/top2%25.PNG)
