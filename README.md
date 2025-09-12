@@ -30,7 +30,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/ha.cker.png" alt="TryHackMe Badge" />
 </a>
 
-![Mein Profilbild](https://github.com/Barrowow/Barrowow/blob/main/top2%25.PNG)
+![top2%](https://github.com/Barrowow/Barrowow/blob/main/top2%25.PNG)
 
 ---
 
