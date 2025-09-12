@@ -34,7 +34,7 @@
 
 ---
 
-## 📬 PGP Public Key
+## 🔒 PGP Public Key
 </div>
 <h4 align="left"></h4>
 <pre>
