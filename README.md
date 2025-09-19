@@ -24,7 +24,7 @@
 </a>
 
 ---
-## 🎓 Learning every day on: 
+## 🎓 Learning and competing on: 
 
 <a href="https://www.tryhackme.com/p/ha.cker">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ha.cker.png?20250912" alt="badge" />
